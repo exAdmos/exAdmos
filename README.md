@@ -1,7 +1,16 @@
-## Hi there 👋
-🎓 High school student, aspiring programmer.
-<br><br>
-💻 Full-stack development,
+# Hello there 👋
+
+### → I am:
+
+🎓 High school student, aspiring programmer. 🎓
+
+### → What I do:
+
+💻 Primarily full-stack development,
 🎮 Game development,
 🖥️ Self-hosted homelab.
-🔗️[My personal git](https://git.szczur.cc/admin)
+
+---
+### → Sites related to me:
+
+🔗️ [My personal git](https://git.szczur.cc/admin/)
